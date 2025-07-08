@@ -94,4 +94,4 @@ Visit: http://localhost:8080
 🙋‍♂️ Author
 
 Shivam Baghel
-🌐 [LinkedIn](https://www.linkedin.com/in/shivam-baghel-897935220/) • ✉️ [Email](shivambaghelaug@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/shivam-baghel-897935220/) • ✉️ [Email](mailto:shivambaghelaug@gmail.com)
