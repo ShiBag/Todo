@@ -64,10 +64,12 @@ Open src/main/resources/application.properties (create it if not exists)
 
 Add your DB configuration:
 
+# === Database Configuration ===
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 
+# === JPA Settings ===
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
