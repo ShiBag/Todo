@@ -76,8 +76,6 @@ spring.jpa.hibernate.ddl-auto=update
 
 spring.jpa.show-sql=true
 
-⚠️ Don't commit this file! Add it to .gitignore
-
 ### 3️⃣ Run the Application
 
 👉 Using Maven:
