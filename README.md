@@ -52,7 +52,7 @@ A simple yet elegant **Todo List Web Application** built with Spring Boot, Thyme
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-springboot-app.git
+git clone https://github.com/ShiBag/Todo.git
 cd todo-springboot-app
 ```
 
@@ -65,7 +65,7 @@ Open src/main/resources/application.properties (create it if not exists)
 Add your DB configuration:
 
 # === Database Configuration ===
-spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
+spring.datasource.url=jdbc:mysql://localhost:3306/todo_entity
 
 spring.datasource.username=your_username
 
