@@ -52,8 +52,8 @@ A simple yet elegant **Todo List Web Application** built with Spring Boot, Thyme
 ### 1️⃣ Clone the Repository
 
 ```bash
+cd todo
 git clone https://github.com/ShiBag/Todo.git
-cd todo-springboot-app
 ```
 
 ### 2️⃣ Set Up MySQL Database
